@@ -23,3 +23,17 @@
 
       ![VBA_Challenge_2017](https://user-images.githubusercontent.com/70987568/125205374-82cd9a80-e247-11eb-9bd7-574c22a0527b.png)
       [VBA CODE.txt](https://github.com/Adegbenga1/VBA_Challenge.xlsm./files/6797417/VBA.CODE.txt)
+# SUMMARY  
+# Detailed statement on the advantages and disadvantages of refactoring code in general 
+       This analysis depicts the performance of the stock in 2017 and 2018. It is noteworthy that refactoring code increase the output speed and stock performance over two                consecutive years were viewed in seconds. The time taken for output display will support an instant  decision on investments
+       In addition , refactoring will also guaranttee analysis of additional sheets in the file with respect to year ,date and time.
+       
+      ** Disadvantange** is thhat if there is any error in the VBA it will negatively affect the response time.
+      
+# Detailed statement on the advantages and disadvantages of the original and refactored VBA script
+      Advantage : 
+      1. Refactored file run faster than the original file and geerats output in seconds
+      Disadvantage :
+      1. Additional codes are required for effective refactored VBA scripts
+      2. Errors in coding and formating can lead to incoorect output and delayed decision making .
+
