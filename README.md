@@ -22,4 +22,4 @@
       ![VBA_Challenge_2017](https://user-images.githubusercontent.com/70987568/125205588-975e6280-e248-11eb-81ce-cd8e59fc1f67.png)
 
       ![VBA_Challenge_2017](https://user-images.githubusercontent.com/70987568/125205374-82cd9a80-e247-11eb-9bd7-574c22a0527b.png)
-           [VBA CODE.txt](https://github.com/Adegbenga1/VBA_Challenge.xlsm./files/6797417/VBA.CODE.txt)
+      [VBA CODE.txt](https://github.com/Adegbenga1/VBA_Challenge.xlsm./files/6797417/VBA.CODE.txt)
