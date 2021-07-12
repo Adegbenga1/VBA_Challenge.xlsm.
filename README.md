@@ -17,6 +17,8 @@
       For the year "2017" , the VBA code ran at 1.453125sconds  and "2018" was at a speed 1.507813 seconds
       An indication that the speed and efficiency were fast and better respectively.
       
+      Data showed that Tickers DQ,ENPH, HASI,RUN, SEDG,VSLR increased by 67%,63%,22%,47%,13% and 20% respectively. This is an indications that stocks on these tickers are             growing considerably and are worthy and reliable for better investments. Stocks with lower percentages were identified too as stock growth declines.
+      
       ![VBA_Challenge_2018](https://user-images.githubusercontent.com/70987568/125205578-8c0b3700-e248-11eb-9306-0bf00d6855ef.png)
       
       ![VBA_Challenge_2017](https://user-images.githubusercontent.com/70987568/125205588-975e6280-e248-11eb-81ce-cd8e59fc1f67.png)
