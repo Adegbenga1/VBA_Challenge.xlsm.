@@ -8,8 +8,7 @@
       It is therefore important that  programmers are able to incraese the output efficiency in coding after review.
       
 # RESULTS
-      The results generated showed[VBA CODE.txt](https://github.com/Adegbenga1/VBA_Challenge.xlsm./files/6797416/VBA.CODE.txt)
-      reduced time code in excution process due to improvement in VBA steps .
+      The results generated showed reduced time code in excution process due to improvement in VBA steps .
       Additional time variables that specifies execution periods were linked to yearaValue throug the inpuBox ( yearValue = inputbox(" + yearValue + ").
       Variables that also defined tckerVolume,tickerStartingPrices and tickerEndingPrices were included as single data types to enhance efficiency.
       
