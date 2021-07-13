@@ -4,7 +4,7 @@
       This challenege dealt with expansion of  the dataset to include the entire stock market 
       over the last few years which specifies "2017:" and "2018". It used a refractor to         
       loop through all the data at  one time in order to collect the same information from all the sheets in file
-      Refractoring the code also enhances the speed and make and increase the efficency of the process by reducing the execution steps and and memory utilized in the coding             process  .
+      Refractoring the code also enhances the speed and make and increase the efficency of the process by reducing the execution steps and and memory utilized in the coding            process  .
       It is therefore important that  programmers are able to incraese the output efficiency in coding after review.
       
 # RESULTS
